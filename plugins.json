@@ -1,24 +1,24 @@
 [
   {
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
-    "fileHash": "sha256-18cdfcac019985c4d2cd41bd38bf40bff9348e6b02fde2d5c8156aecc05b4f06",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony",
-    "fileSize": 11222,
-    "status": 1,
-    "language": "ar",
+    "name": "Carateen",
+    "internalName": "Carateen",
     "authors": [
       "Momen"
     ],
+    "description": "Carateen streaming plugin",
+    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony/main/CarateenProvider.cs3",
+    "iconUrl": "https://carateen.tv/wp-content/uploads/2024/08/favicon.png",
+    "version": 1,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "ar",
     "tvTypes": [
       "TvSeries",
       "Anime",
       "Movie"
     ],
-    "version": 1,
-    "internalName": "Carateen",
-    "description": "Carateen streaming plugin",
-    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony/main/CarateenProvider.cs3",
-    "name": "Carateen"
+    "fileSize": 11275,
+    "fileHash": "60a80b13b860c420026c5792b39f0acf12cb0099205e23ddca510772f50e9ae4",
+    "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony"
   }
 ]
