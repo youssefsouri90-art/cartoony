@@ -1,0 +1,24 @@
+[
+  {
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+    "fileHash": "sha256-18cdfcac019985c4d2cd41bd38bf40bff9348e6b02fde2d5c8156aecc05b4f06",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony",
+    "fileSize": 11222,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Momen"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "Carateen",
+    "description": "Carateen streaming plugin",
+    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony/main/CarateenProvider.cs3",
+    "name": "Carateen"
+  }
+]
