@@ -1,15 +1,8 @@
 {
-  "name": "Carateen Repo",
-  "description": "Carateen Extension",
+  "name": "Carateen Local",
+  "description": "Carateen plugin",
   "manifestVersion": 1,
-  "plugins": [
-    {
-      "name": "Carateen",
-      "url": "https://github.com/youssefsouri90-art/carateen-extension/releases/latest/download/CarateenProvider.cs3",
-      "version": 1,
-      "description": "Carateen streaming",
-      "language": "ar",
-      "authors": ["Momen"]
-    }
+  "pluginLists": [
+    "https://raw.githubusercontent.com/youssefsouri90-art/cartoony/main/plugins.json"
   ]
 }
